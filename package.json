@@ -17,7 +17,7 @@
   ],
   "license": "MIT",
   "scripts": {
-    "start": "node server.js"
+    "start": ""
    
   },
   "devDependencies": {
